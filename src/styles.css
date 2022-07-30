@@ -5,3 +5,38 @@ html, body {
     font-size: 1.3rem;
     padding: 70px;
 }
+
+table {
+    background-color: #a9ca92;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    color: black;
+}
+
+table td, table th {
+    border: 1px solid #000000;
+    padding: 3px 2px;
+}
+
+table tbody td {
+    font-size: 1rem;
+}
+
+table thead {
+    background: #4AA71D;
+    border-bottom: 2px solid black;
+}
+
+table thead th {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+button {
+    float:right; 
+    margin-right:5%; 
+  }
+
